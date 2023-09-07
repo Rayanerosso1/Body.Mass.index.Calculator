@@ -27,9 +27,9 @@ class MainActivity : AppCompatActivity() {
         val editname = findViewById<EditText>(R.id.edittextname)
 
         btnCalculator.setOnClickListener {
+   val alturaNova = editAltura.text.toString().replace(",",".")
 
-
-                val altura: Float = editAltura.text.toString().toFloat()
+                val altura: Float = alturaNova.toFloat()
                 val alturaFinal: Float = altura * altura
                 val peso: Float = edtextPeso.text.toString().toFloat()
                 val name: String = editname.text.toString()
