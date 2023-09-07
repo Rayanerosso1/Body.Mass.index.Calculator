@@ -7,7 +7,7 @@ and i did it from Zero, because i never had that experience with programming bef
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/result/screenshot.png" width="260">&emsp;<img src="/result/image2.png" width="260">&emsp;<img src="/result/image3.png" width="260">
+<img src="/result/Screenshot_1.png" width="260">&emsp;<img src="/result/Screenshot_2.png" width="260">&emsp;<img src="/result/Screenshot_3.png" width="260">
 
 ## Tecnologias
 * Kotlin
